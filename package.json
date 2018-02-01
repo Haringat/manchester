@@ -1,0 +1,8 @@
+{
+  "name": "manchester",
+  "version": "1.0.0",
+  "description": "manchester codec for Node.js",
+  "main": "index.mjs",
+  "author": "Marcel Mundl",
+  "license": "MIT"
+}
